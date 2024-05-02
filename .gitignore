@@ -15,3 +15,6 @@ htmlcov/
 *.pyc
 
 poetry.lock
+
+# Files created by OSS-Fuzz when running locally
+fuzz_*.pkg.spec
